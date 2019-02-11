@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Basuki Prabowo Mahardi"
 description              : &description "personal description"
