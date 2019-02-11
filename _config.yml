@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mahardi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mahardi"
 description              : &description "personal description"
