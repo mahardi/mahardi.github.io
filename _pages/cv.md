@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Technology, Gunadarma University, 2019 (expected)
+* B.S. in Information Technology, Gunadarma University, 2019 
 
 Skills
 ======
